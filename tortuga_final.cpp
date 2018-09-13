@@ -3,7 +3,6 @@
 #include <math.h>
 #include <iostream>
 #include <unistd.h>
-
 using namespace std;
 
 class punto
